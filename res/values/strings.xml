@@ -5,10 +5,15 @@
     <string name="action_settings">Settings</string>
     <string name="name">Name:</string>
     <string name="type">Desn/Dev:</string>
+        <string name="description">Description:</string>
     <string name="max">Max</string>
-    <string name="sage">Sage Gatzke</string>
+    <string name="sage">Sage</string>
     <string name="rahman">Rahman</string>
     <string name="mike">Mike</string>
+    <string name="max_info">Max will be designing and coming up with interesting ways to do things.</string>
+    <string name="sage_info">Sage has setup Amazon web services and installed apache, php, mysql. He will be doing android development, webservices, and database design</string>
+    <string name="rahman_info">Rahman is going to be developing for android and working with Sage on the Database Structure</string>
+    <string name="mike_info">Mike is chilling in Hawaii sending us store via the Internet! Maybe doing hangouts for todays class. He will probably handling a lot of the back end of the website.</string>
 
     <string name="developer">Developer</string>
 	<string name="designer">Designer</string>
