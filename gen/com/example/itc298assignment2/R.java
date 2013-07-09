@@ -8,6 +8,11 @@
 package com.example.itc298assignment2;
 
 public final class R {
+    public static final class array {
+        public static final int days=0x7f070000;
+        public static final int names=0x7f070002;
+        public static final int time=0x7f070001;
+    }
     public static final class attr {
     }
     public static final class color {
@@ -32,23 +37,30 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f090006;
-        public static final int maxtab=0x7f090001;
-        public static final int miketab=0x7f090003;
-        public static final int pager=0x7f090000;
-        public static final int rahmantab=0x7f090004;
-        public static final int sagetab=0x7f090005;
-        public static final int tableLayout=0x7f090002;
+        public static final int action_settings=0x7f0a000b;
+        public static final int childbutton=0x7f0a0000;
+        public static final int childeventname=0x7f0a0002;
+        public static final int childeventtime=0x7f0a0001;
+        public static final int groupheader=0x7f0a0003;
+        public static final int list=0x7f0a0009;
+        public static final int maxtab=0x7f0a0005;
+        public static final int miketab=0x7f0a0007;
+        public static final int pager=0x7f0a0004;
+        public static final int rahmantab=0x7f0a0008;
+        public static final int sagetab=0x7f0a000a;
+        public static final int tableLayout=0x7f0a0006;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
-        public static final int max_tab=0x7f030001;
-        public static final int mike_tab=0x7f030002;
-        public static final int rahman_tab=0x7f030003;
-        public static final int sage_tab=0x7f030004;
+        public static final int activity_child=0x7f030000;
+        public static final int activity_group=0x7f030001;
+        public static final int activity_main=0x7f030002;
+        public static final int max_tab=0x7f030003;
+        public static final int mike_tab=0x7f030004;
+        public static final int rahman_tab=0x7f030005;
+        public static final int sage_tab=0x7f030006;
     }
     public static final class menu {
-        public static final int main=0x7f080000;
+        public static final int main=0x7f090000;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
@@ -89,13 +101,13 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070000;
+        public static final int AppBaseTheme=0x7f080000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f070001;
-        public static final int heading1=0x7f070002;
-        public static final int heading2=0x7f070003;
-        public static final int para=0x7f070004;
+        public static final int AppTheme=0x7f080001;
+        public static final int heading1=0x7f080002;
+        public static final int heading2=0x7f080003;
+        public static final int para=0x7f080004;
     }
 }
